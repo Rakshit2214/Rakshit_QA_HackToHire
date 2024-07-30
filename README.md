@@ -9,6 +9,7 @@ This project aims to develop a state-of-the-art question-answering model leverag
 - Google Colab or any Python environment
 - Streamlit for the frontend
 - Python libraries: `nltk`, `re`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`, `transformers`, `scikit-learn`
+- Files in the drive link present in the Installation section.
 
 ### Installation Steps
 1. Clone the repository:
