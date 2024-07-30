@@ -24,7 +24,7 @@ This project aims to develop a state-of-the-art question-answering model leverag
    pip install -r requirements.txt
 
 ## Usage
-1. Open and run the Google Colab notebook to preprocess the data and train the model.(Optional)
+1. Open and run the Indigo_Rakshit_HackToHire notebook in Google Colab to preprocess the data and generate the required files and models instead of downloading.(Optional)
 2. Use the Streamlit application to interact with the trained model
    ```bash
    streamlit run App.py
