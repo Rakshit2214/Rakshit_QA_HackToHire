@@ -14,8 +14,11 @@ This project aims to develop a state-of-the-art question-answering model leverag
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/hack-to-hire-2024.git
-
-2. Install the required Python libraries:
+2. Download Required Files for Frontend from the drive link and place it in the same directory as the App.py file:
+   ```bash
+   https://drive.google.com/drive/folders/1kFyUR8vdUjGrgzeompk7e7lbOyVAiPnw?usp=sharing
+   
+3. Install the required Python libraries:
    ```bash
    pip install -r requirements.txt
 
